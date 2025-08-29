@@ -156,28 +156,28 @@ Ho confrontato le prestazioni di diversi modelli di apprendimento automatico:
 
 ### 4.1 Logistic Regression Model
 
-![Logistic Regression](./plots/LogisticRegression.png)
+![Logistic Regression](FakeTrueNews/plots/LogisticRegression.png)
 
 > This is the visualization of the **logistic regression** model, showing its performance in classifying fake and real news.
 > Questa è la visualizzazione del modello di **regressione logistica**, che mostra le sue prestazioni nella classificazione delle notizie false e reali.
 
 ### 4.2 Naive Bayes Model
 
-![Naive Bayes](./plots/naive_bayes.png)
+![Naive Bayes](FakeTrueNews/plots/naive_bayes.png)
 
 > This is a visualization of the **Naive Bayes** model, demonstrating its accuracy and ability to distinguish between fake and real news.
 > Questa è la visualizzazione del modello **Naive Bayes**, che dimostra la sua accuratezza e capacità di distinguere tra notizie false e reali.
 
 ### 4.3 SVM Confusion Matrix
 
-![SVM Confusion Matrix](./plots/confusion_matrix_SVM.png)
+![SVM Confusion Matrix](FakeTrueNews/plots/confusion_matrix_SVM.png)
 
 > The **SVM (Support Vector Machine)** confusion matrix reveals how well the model is able to distinguish between fake and real news articles, with high accuracy and recall.
 > La matrice di confusione **SVM (Support Vector Machine)** rivela quanto il modello sia in grado di distinguere tra articoli di cronaca falsi e reali, con elevata precisione e richiamo.
 
 ### 4.4 TF-IDF Confusion Matrix
 
-![TF-IDF Confusion Matrix](./plots/TF_IDF_confusion_matrix.png)
+![TF-IDF Confusion Matrix](FakeTrueNews/plots/TF_IDF_confusion_matrix.png)
 
 > The confusion matrix for the vectorized **TF-IDF** model shows how it classifies fake and real news, with balanced performance in distinguishing between the two categories.
 > La matrice di confusione per il modello vettorializzato **TF-IDF** mostra come classifica le notizie false e quelle vere, con prestazioni equilibrate nella distinzione tra le due categorie.
@@ -214,5 +214,6 @@ The data utilized in this project is publicly available data, and everything was
 
 I dati utilizzati in questo progetto sono dati disponibili pubblicamente ed è stato fatto tutto il possibile per garantire il rispetto delle considerazioni etiche. Durante l'analisi non sono state utilizzate né esposte informazioni personali o sensibili.
 ---
+
 
 
